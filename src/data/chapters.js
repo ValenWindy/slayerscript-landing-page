@@ -114,4 +114,17 @@ export const chapters = [
       task: 'https://github.com/SlayerScript/SlayerScript-JavaScript/blob/main/tarea/capitulo-9.md',
     },
   },
+  {
+    id: 'cap-10',
+    number: 10,
+    title: 'Arrays, nivel 1',
+    description:
+      'Declaración de arrays, reasignación, push, pop, shift, unshift',
+    tags: ['Arrays', 'métodos'],
+    resources: {
+      material: 'https://github.com/SlayerScript/SlayerScript-JavaScript/blob/main/material/capitulo-10.md',
+      video: 'https://www.youtube.com/watch?v=YgVU0JEAgwY',
+      task: 'https://github.com/SlayerScript/SlayerScript-JavaScript/blob/main/tarea/capitulo-10.md',
+    },
+  },
 ]
