@@ -140,7 +140,7 @@ export const materials = [
   {
     id: 'mat-15',
     title: 'Arrays',
-    description: 'Declaración de arrays, métodos estaticos y de instancia',
+    description: 'Declaración de arrays, métodos estáticos y de instancia',
     category: 'JavaScript',
     type: 'Documentación',
     url: 'https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array',

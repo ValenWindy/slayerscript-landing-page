@@ -119,7 +119,7 @@ export const chapters = [
     number: 10,
     title: 'Arrays, nivel 1',
     description:
-      'Declaración de arrays, reasignación, push, pop, shift, unshift',
+      'Declaración y trabajo con listas arrays',
     tags: ['Arrays', 'métodos'],
     resources: {
       material: 'https://github.com/SlayerScript/SlayerScript-JavaScript/blob/main/material/capitulo-10.md',
